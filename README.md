@@ -23,7 +23,7 @@ A simple console-based ATM simulation built with Python.
 3. Open a terminal in the project folder
 4. Run:
 
-python atmcode.py
+atmcode.py
 
 ## What I Learned
 
